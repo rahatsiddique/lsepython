@@ -1,5 +1,5 @@
 # lsepython
-Planning and resources for lse econ python bootcamp, February 2020
+Planning and resources for lse economics python bootcamp, February 2020
 
 The course is designed for undergraduate economics students with a basic understanding of python. We cover fundamental techniques in data cleaning, visualisations and analysis.  
 
