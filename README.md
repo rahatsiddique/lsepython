@@ -10,4 +10,4 @@ The bootcamp will cover 6 different economic research themes:
 3. Schelling’s segregation model (simulation)
 4. Market concentration in EU states
 5. Solow model (simulation)
-6. CPI Price trends
+6. CPI price trends
