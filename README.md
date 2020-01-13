@@ -8,6 +8,6 @@ The bootcamp will cover 6 different economic research themes:
 1. Happiness and GDP
 2. Brexit and FDI
 3. Schelling’s segregation model (simulation)
-4. Market concentration in EU states
+4. Climate change
 5. Solow model (simulation)
 6. CPI price trends
